@@ -8,4 +8,4 @@
 
 💦 In 2020, I started working as a **Swimming Instructor** 
 
-*🌱 I’m currently learning C++ and Python and looking for some exciting new projects*
+*🌱 I’m currently learning Python with Django and looking for some exciting new projects*
