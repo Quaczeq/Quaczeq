@@ -3,6 +3,7 @@
 **_I'm Marcin Kłak @Quaczeq_**
 
 **Student of:** *Warsaw School of Computer Science and Warsaw School of Phisical Education*
+
 **Working in** *mBank* as *Business and Systems Analyst*
 
 🏆 I have been swimming for **12 years** 🏊‍♂️ 
