@@ -8,6 +8,6 @@
 
 🏆 I have been swimming for **12 years** 🏊‍♂️ 
 
-💦 In 2020, I started working as a **Swimming Instructor** 
+💦 In 2022, I created my own **Swimming School - KŁAK - plywajmy.pl** 
 
 *🌱 I’m currently learning Python with Django and looking for some exciting new projects*
